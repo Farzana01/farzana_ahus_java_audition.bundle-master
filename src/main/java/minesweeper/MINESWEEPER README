@@ -8,7 +8,7 @@ time and timeout error.
 need to determine their safe zone with the hint numbers which will be provided on the grid. 
 These clues are calculated with method in the program.
 I have a mentioned a few test cases, much more is needed, for the codes. I recommend using the 
-red, green, refactor process for the testing- in that you fail, you pass and you try to re factor your 
+red, green, re factor process for the testing- in that you fail, you pass and you try to re factor your 
 codes for a more effective code.
 In this game, my thought process was to create a program in which, I will place safe zones first. 
 Then, I will place the bombs, making sure that a change of dimensions will not throw the bombs 
