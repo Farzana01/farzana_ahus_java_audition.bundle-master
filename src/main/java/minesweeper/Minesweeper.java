@@ -34,4 +34,8 @@ public class Minesweeper {
 		}
 	
 	}
+	
+	public void test() {
+		System.out.println("this is a test. Delete once github is working");
+	}
 }
