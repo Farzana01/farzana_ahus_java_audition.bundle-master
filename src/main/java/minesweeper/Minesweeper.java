@@ -1,7 +1,7 @@
 package minesweeper;
 
 public class Minesweeper {
-	
+	//setup
 	int n = 5;
 	int m = 5;
 	String [][] board = new String[n][m];
